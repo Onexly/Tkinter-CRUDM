@@ -12,4 +12,4 @@ A simple functional CRUD using Python and Tkinter.
 #### Credits
 Tutorial Source [pildorasinformaticas](https://www.youtube.com/watch?v=E0OqddzjFUY&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=63 "pildorasinformaticas CRUD Tutorial").
 
-> Unknow Date
+> Unknown Date
